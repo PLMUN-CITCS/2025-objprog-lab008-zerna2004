@@ -1,0 +1,4 @@
+You passed the exam!
+Keep improving!
+Grade: B
+Multi-way Grade: B
